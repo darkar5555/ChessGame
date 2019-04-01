@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{543010D5-7FF0-79F0-4C3E-C603B903A804}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoardManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BoardManager.cs" Line="145" Column="56" />
+      <File FileName="Assets/Scripts/ChessMan.cs" Line="17" Column="41" />
+      <File FileName="Assets/Scripts/Pawn.cs" Line="85" Column="63" />
+      <File FileName="Assets/Scripts/Queen.cs" Line="200" Column="18" />
+      <File FileName="Assets/Scripts/King.cs" Line="84" Column="49" />
+      <File FileName="Assets/Scripts/Rook.cs" Line="96" Column="10" />
+      <File FileName="Assets/Scripts/Knight.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/BoardHighlights.cs" Line="40" Column="80" />
+      <File FileName="Assets/Scripts/Bishop.cs" Line="115" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
